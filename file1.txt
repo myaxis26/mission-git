@@ -2,4 +2,10 @@ hello!!
 how are you? 
 datamites classes helds on saturday and sunday.
 we are working on Git today.
+<<<<<<< HEAD
 Hopefully, this class ends soon and we can start with new topic.
+=======
+It will continue next saturday as well. 
+It's a bit complex topic.
+>>>>>>> branch1
+we can keep either or both
