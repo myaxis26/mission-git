@@ -2,3 +2,5 @@ hello!!
 how are you? 
 datamites classes helds on saturday and sunday.
 we are working on Git today.
+It will continue next saturday as well. 
+It's a bit complex topic.
