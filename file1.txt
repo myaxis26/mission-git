@@ -10,3 +10,4 @@ It's a bit complex topic.
 >>>>>>> branch1
 we can keep either or both
 Working in GITHUB, changes in Branch_1
+trying to create conflict, changes in branch_1
